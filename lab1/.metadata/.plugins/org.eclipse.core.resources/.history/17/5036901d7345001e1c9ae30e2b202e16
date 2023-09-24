@@ -1,0 +1,17 @@
+package lab1;
+import java.util.Scanner;
+
+public class P2 {
+	public static void main(String[] arrgs) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("Enter your salary: ");
+        int salary = sc.nextInt();
+        
+        System.out.print("Enter your merit points: ");
+        int meritPoint = sc.nextInt();
+        
+        System.out.println("salary: " + salary);
+        System.out.println("merit points: " + meritPoint);
+	}
+}

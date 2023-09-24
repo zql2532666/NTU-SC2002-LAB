@@ -1,0 +1,20 @@
+package lab1;
+import java.util.Scanner;
+
+public class P3 {
+	public static void main(String[] args) {
+		double CONVERSION_RATE = 1.82;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter starting value: ");
+		int start = sc.nextInt();
+		
+		System.out.println("Enter ending value: ");
+		int end;
+		
+		System.out.println("Enter increment value: ");
+		int increment;
+		
+		
+		
+	}
+}

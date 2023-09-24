@@ -1,0 +1,12 @@
+package lab1;
+import java.util.Scanner;
+
+public class P3 {
+	public static void main(String[] args) {
+		const double CONVERSION_RATE = 1.82;
+		int start;
+		int end;
+		int increment;
+		
+	}
+}

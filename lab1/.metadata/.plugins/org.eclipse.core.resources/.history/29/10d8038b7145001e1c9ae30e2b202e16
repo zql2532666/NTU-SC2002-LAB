@@ -1,0 +1,10 @@
+package lab1;
+import java.util.Scanner;
+
+public class P2 {
+	public static void main(String[] arrgs) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter your choice: ");
+        char c = sc.next().charAt(0);
+	}
+}
